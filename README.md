@@ -61,11 +61,11 @@ Simulates realistic startup operations:
 
 Hire different employee roles:
 
-| Role | Effect |
-|------|--------|
-| Engineers | Improve product quality |
-| Marketers | Increase user acquisition |
-| Sales | Improve conversion rate |
+| Role      | Effect                     |
+| --------- | -------------------------- |
+| Engineers | Improve product quality    |
+| Marketers | Increase user acquisition  |
+| Sales     | Improve conversion rate    |
 | Designers | Improve customer retention |
 
 ---
@@ -79,6 +79,7 @@ Supports multiple monetization strategies:
 - Premium Pricing
 
 Pricing impacts:
+
 - Conversion rate
 - Churn rate
 - Revenue growth
@@ -101,6 +102,7 @@ Predicts future startup health:
 ## ⚔️ Market Competition Engine
 
 Simulates:
+
 - Competitor pressure
 - Market saturation
 - Startup ecosystem dynamics
@@ -111,6 +113,7 @@ Simulates:
 ## 🎲 Dynamic Startup Events
 
 Random business scenarios such as:
+
 - Product going viral
 - Server outages
 - Investor interest
@@ -121,6 +124,7 @@ Random business scenarios such as:
 ## 🏦 Startup Lifecycle Simulation
 
 Simulates startup progression through:
+
 - Pre-Seed
 - Seed
 - Series A
@@ -132,6 +136,7 @@ Simulates startup progression through:
 # 🛠️ Tech Stack
 
 ## Frontend
+
 - React.js
 - Tailwind CSS
 - Axios
@@ -139,6 +144,7 @@ Simulates startup progression through:
 - Framer Motion
 
 ## Backend
+
 - Flask
 - Flask SQLAlchemy
 - Flask CORS
@@ -146,6 +152,7 @@ Simulates startup progression through:
 - JWT Authentication
 
 ## Database
+
 - MySQL
 
 ---
@@ -155,6 +162,7 @@ Simulates startup progression through:
 Frontend Dashboard → Flask REST APIs → Simulation Engine → MySQL Database
 
 The backend handles:
+
 - Business logic
 - Forecasting calculations
 - Startup simulations
@@ -294,6 +302,7 @@ Planned upgrades:
 Most student projects focus only on CRUD operations.
 
 This project was designed to combine:
+
 - software engineering
 - startup economics
 - analytics systems
@@ -302,12 +311,6 @@ This project was designed to combine:
 - business intelligence
 
 into one platform.
-
----
-
-# 📸 Screenshots
-
-(Add screenshots here)
 
 ---
 
